@@ -111,6 +111,9 @@ const fundingEligibility = {
     },
     itau: {
         eligible: false
+    },
+    paidy: {
+        eligible: false
     }
 };
 

@@ -773,6 +773,13 @@ const buttonConfigs = [
                 label:  `mercadopage`,
                 commit: true,
                 valid:  false
+            },
+
+            {
+                layout: `vertical`,
+                label:  `paidy`,
+                commit: true,
+                valid:  false
             }
 
         // $FlowFixMe
